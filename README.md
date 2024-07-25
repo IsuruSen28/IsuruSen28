@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isuru Senanayake</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate and dedicated developer with a strong focus on full-stack development using the MERN stack and Next.js. Expertise 
+lies in creating dynamic, responsive web applications and delivering high-quality code. Thrive in collaborative environments and 
+am eager to apply my skills to real-world projects while continuously learning and growing in the field of software engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isur&label=Profile%20views&color=0e75b6&style=flat" alt="isur" /> </p>
 
