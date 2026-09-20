@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sen-dev-portfolio.vercel.app/](https://sen-dev-portfolio.vercel.app/)
 
-- 💬 Ask me about **Game development, Game concepts, Game Arts, etc.**
+- 💬 Ask me about **Software dev, IoT and Robotics, Game dev, Game concepts, Game Arts, and many more.**
 
 - 📫 How to reach me **isuruwsenanayake@gmail.com**
 
